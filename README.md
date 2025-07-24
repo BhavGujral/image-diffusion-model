@@ -30,7 +30,7 @@ Diffusion models are generative models that iteratively denoise a random signal 
 ## 📁 Files
 
 - `image_diffusion_model.ipynb`: Main notebook containing code, training, and visualizations.
-- `requirements.txt`: List of Python dependencies to run the notebook locally.
+  
 
 ---
 
